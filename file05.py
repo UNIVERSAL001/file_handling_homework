@@ -16,4 +16,4 @@ def main(data:str):
 # Read data from file
 path = "txt_file/data05.txt"
 f = open(path).read()
-print(main(f))
+print(main(f)) 
